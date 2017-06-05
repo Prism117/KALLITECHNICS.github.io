@@ -1,0 +1,35 @@
+body {
+	font-family: Roboto, Garamond, sans-serif;
+	text-align: center;
+	background: url(https://lh6.googleusercontent.com/onPsx37VoYyH0MhnJbO792rcxJIkPwewr7z07avyH-Owz2kgb5LNLXsL0etn9Qb_0N6Kt3dXhnx1Xvk=w1255-h1270-rw) no-repeat;
+	background-size: cover;
+	background-color:black;
+	
+;
+}
+
+.head {
+	text-align: center;
+	margin-top:50px;
+	text-transform: Uppercase;
+	background-color: black;
+	color:white;
+	width:100%;
+	background-radius: 20px
+}
+
+.Hello {
+	width:100%;
+	height: 600px;
+	position: fixed;
+}
+
+p{
+	font-size:22px;
+	color: white;
+	font-family: Garamond, courier, serif;
+}
+.foot {
+	height: 12px;
+	font-family: Garamond;
+}
